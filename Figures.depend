@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1479416324 source:d:\donnu\programmig\individualki\oop_004\figures\main.cpp
+	<fstream>
+	<iostream>
+	"Figure.h"
+	"Circle.h"
+	"EqltrlTriangle.h"
+	"Rectangle.h"
+	"Ellipse.h"
+	"Rhomb.h"
+	"Square.h"
+	"Triangle.h"
+
+1479411229 d:\donnu\programmig\individualki\oop_004\figures\include\figure.h
+	<cmath>
+	<string>
+	"Point.h"
+
+1479241525 d:\donnu\programmig\individualki\oop_004\figures\include\circle.h
+
+1479235855 d:\donnu\programmig\individualki\oop_004\figures\include\point.h
+	"cmath"
+
+1479241525 d:\donnu\programmig\individualki\oop_004\figures\include\triangle.h
+
+1479241172 d:\donnu\programmig\individualki\oop_004\figures\include\square.h
+
+1479241525 d:\donnu\programmig\individualki\oop_004\figures\include\rhomb.h
+
+1479241525 d:\donnu\programmig\individualki\oop_004\figures\include\rectangle.h
+
+1479412700 d:\donnu\programmig\individualki\oop_004\figures\include\eqltrltriangle.h
+
+1479241525 d:\donnu\programmig\individualki\oop_004\figures\include\ellipse.h
+
+1479417952 source:d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\main.cpp
+	<fstream>
+	<iostream>
+	"Figure.h"
+	"Circle.h"
+	"EqltrlTriangle.h"
+	"Rectangle.h"
+	"Ellipse.h"
+	"Rhomb.h"
+	"Square.h"
+	"Triangle.h"
+
+1479411229 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\figure.h
+	<cmath>
+	<string>
+	"Point.h"
+
+1479235855 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\point.h
+	"cmath"
+
+1479241525 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\circle.h
+
+1479412700 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\eqltrltriangle.h
+
+1479241525 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\rectangle.h
+
+1479241525 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\ellipse.h
+
+1479241525 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\rhomb.h
+
+1479241172 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\square.h
+
+1479241525 d:\donnu\programmig\individualki\c++ Индивидуалки\oop_004\figures\include\triangle.h
+
